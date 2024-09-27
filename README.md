@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tharaknath G</h1>
 <h3 align="center">A passionate programmer </h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/coding-typing-big-brained-busy-sweating-gif-17808553">
+<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/EkR3t3GKJunn5HJq9">
 
 <p align="left"> <img src="https://images.app.goo.gl/EkR3t3GKJunn5HJq9" /> </p>
 
