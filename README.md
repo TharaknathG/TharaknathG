@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tharaknath G</h1>
 <h3 align="center">A passionate programmer </h3>
 
-<p align="center"> <img src="https://images.app.goo.gl/EkR3t3GKJunn5HJq9" /> </p>
 
+<h4 align ="center">
 - 🌱 I’m currently learning *Artificial Intelligence & Data Science*
 
 - 📫 How to reach me *tharaknath2003g@gmail.com*
 
 - ⚡ Fun fact *I am friendly*
+</h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
