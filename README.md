@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharaknath G</h1>
 <h3 align="center">A passionate programmer </h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/EkR3t3GKJunn5HJq9">
 
-<p align="left"> <img src="https://images.app.goo.gl/EkR3t3GKJunn5HJq9" /> </p>
+<p align="center"> <img src="https://images.app.goo.gl/EkR3t3GKJunn5HJq9" /> </p>
 
 - 🌱 I’m currently learning *Artificial Intelligence & Data Science*
 
